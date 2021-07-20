@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 13c9d88b31eab9b43910133dd343d373
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: clip1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Malaka_Hair
+    second: {fileID: 2100000, guid: 6c8fda3850d823d429a5585822bb0af1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PS_Malaka_SCN_03_Cut_01_Anim_04_lambert2
+    second: {fileID: 2100000, guid: af56f31cdfeef8546b0b54658ba8b642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PS_Malaka_SCN_03_Cut_01_Anim_04_politicians_son_body
+    second: {fileID: 2100000, guid: aee8f832aa8969c42929fdcfc55b7a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PS_Malaka_SCN_03_Cut_01_Anim_04_politicians_son_cloths
+    second: {fileID: 2100000, guid: 10ae94b0ef493e548aa90842face7025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PS_Malaka_SCN_03_Cut_01_Anim_04_politicians_son_glass
+    second: {fileID: 2100000, guid: ae8182be3d6ceac40b354d83e1f47498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PS_Malaka_SCN_03_Cut_01_Anim_04_politicians_son_head
+    second: {fileID: 2100000, guid: f92b86fdf7c755140babb71ba106e7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PS_Malaka_SCN_03_Cut_01_Anim_04_politicians_son_jewellery
+    second: {fileID: 2100000, guid: 94a50510519f55547a9cc93f850f8701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PS_Malaka_SCN_03_Cut_01_Anim_04_politicians_son_shoes
+    second: {fileID: 2100000, guid: 398fe69033d7f5b40b20246c5073ca7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_1_BodyGuard_01_Rigging_02_bodyguard_Material__77
+    second: {fileID: 2100000, guid: 75ce2b94963a0cc42a6f745c2612a709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_1_BodyGuard_01_Rigging_02_bodyguard_accessories
+    second: {fileID: 2100000, guid: ef57eb36a5122cf47b01ad7183000be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_1_BodyGuard_01_Rigging_02_bodyguard_body
+    second: {fileID: 2100000, guid: 14670cb862669014d9b662ab69d8bb18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_1_BodyGuard_01_Rigging_02_bodyguard_cloths
+    second: {fileID: 2100000, guid: 067999ed019725447ac502ef4c8f722b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_1_BodyGuard_01_Rigging_02_bodyguard_head
+    second: {fileID: 2100000, guid: 5bb235d911cbb6644820e26e95c25f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_1_BodyGuard_01_Rigging_02_bodyguard_mouth
+    second: {fileID: 2100000, guid: 787fd198faf472b40bfd77f42e790f11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_2_BodyGuard_01_Rigging_02_bodyguard_Material__77
+    second: {fileID: 2100000, guid: a1e853cc7f395394d976951d10e2ca05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_2_BodyGuard_01_Rigging_02_bodyguard_accessories
+    second: {fileID: 2100000, guid: a33b2c5f2f6f59542ad3b2e13b459742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_2_BodyGuard_01_Rigging_02_bodyguard_body
+    second: {fileID: 2100000, guid: cb5ff9d5b96c6f44b8b63aeafa217794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_2_BodyGuard_01_Rigging_02_bodyguard_cloths
+    second: {fileID: 2100000, guid: 11946fa00505d1d48968f902424ca558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_2_BodyGuard_01_Rigging_02_bodyguard_head
+    second: {fileID: 2100000, guid: 04503f9068504e947b802db6c88ee7ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model4_bodyguard_2_BodyGuard_01_Rigging_02_bodyguard_mouth
+    second: {fileID: 2100000, guid: d7227bff4004605448622fbfe1b6161d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_aiStandardSurface1
+    second: {fileID: 2100000, guid: c347ec503427eb743b2057a22bec804f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_politician_eye_balls
+    second: {fileID: 2100000, guid: 2494cd1e455b8f8449c94415dcd2ebb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_politician_eye_gloss
+    second: {fileID: 2100000, guid: b80541378aba64c4e898b46f6bba5555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_politician_hair
+    second: {fileID: 2100000, guid: e7c41acb08a533b429b896e8b3b3e4a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_politician_mouth
+    second: {fileID: 2100000, guid: ac2a23100045a044fb3acba2e80c9ecf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_politician_skin_body
+    second: {fileID: 2100000, guid: 280b0d0e742459d4fba7cf58f492d0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_politician_skin_face
+    second: {fileID: 2100000, guid: 41179f7b9b4f00b4d9f2af86dfadd273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: model_politician_slipers1
+    second: {fileID: 2100000, guid: 2047e8b738d694d418ff2841416ffd22, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: clip1
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
